@@ -1,7 +1,8 @@
+
 var {
     for(var i=  i++)
 }
-function numberArray(numbers) {
+ {
 
 }
 
