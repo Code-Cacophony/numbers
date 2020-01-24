@@ -10,9 +10,10 @@ This program has the user input numbers and the program replaces specific number
 
 ## Setup/Installation Requirements
 
-* Download ZIP from Github repository.
+* Download ZIP from Github repository at https://github.com/Code-Cacophony/numbers
 * Unzip files from Downloads
 * Open "Index.html" file in browser of choice.
+
 
 ## Known Bugs
 
@@ -20,14 +21,17 @@ This program has the user input numbers and the program replaces specific number
 
 ## Support and contact details
 
-_
+## Specs
+
+
+If you want to contact the developer, email me at erik@administrata.com
 
 ## Technologies Used
 
 This was made using HTML, CSS and Javascript.
 
 ### License
-
+ 
 This is licensed under the MIT license.
 
 copyright 2020 Erik Grove
